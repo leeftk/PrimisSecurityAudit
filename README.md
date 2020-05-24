@@ -17,6 +17,6 @@ In this Smart Contract audit we’ll cover the following topics:
 
 6. Low severity vulnerabilites found
 
-7.Line by line comments
+7. Line by line comments
 
-8.Summary of the audit
+8. Summary of the audit
